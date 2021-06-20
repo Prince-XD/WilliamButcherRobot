@@ -33,6 +33,6 @@ jobs:
           commit_message: '[AUTO] Code-Format'
           commit_options: '--no-verify'
           repository: .
-          commit_user_name: TheHamkerCat
-          commit_user_email: thehamkercat@gmail.com
-          commit_author: TheHamkerCat <thehamkercat@gmail.com>
+          commit_user_name: GhangaleSangram
+          commit_user_email: sangramghangale@yahoo.com
+          commit_author: GhangaleSangram <sangramghangale@yahoo.com>
