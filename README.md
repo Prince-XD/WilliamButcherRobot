@@ -32,9 +32,9 @@
 ## Install Locally Or On A VPS
 
 ```sh
-$ git clone https://github.com/thehamkercat/WilliamButcherBot
+$ git clone https://github.com/GhangaleSangram/WilliamButcherRobot
 
-$ cd WilliamButcherBot
+$ cd WilliamButcherRobot
 
 $ pip3 install -U -r requirements.txt
 
@@ -54,7 +54,7 @@ $ python3 -m wbb
 ```
 $ git clone https://github.com/TheHamkerCat/WilliamButcherBot
 
-$ cd WilliamButcherBot
+$ cd WilliamButcherRobot
 
 $ pip3 install pyrogram TgCrypto
 
@@ -67,7 +67,7 @@ $ python3 str_gen.py
 # Docker
 
 ```sh
-$ git clone https://github.com/TheHamkerCat/WilliamButcherBot
+$ git clone https://github.com/GhangaleSangram/WilliamButcherRobot
 
 $ cd WilliamButcherBot
 
