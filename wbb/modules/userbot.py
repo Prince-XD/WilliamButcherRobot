@@ -1,10 +1,3 @@
-"""
-    CREDITS:
-        EVAL AND SH FUNCTION IN THIS MODULE IS WRITTEN BY @Pokurt.
-        SOURCE:
-            https://github.com/pokurt/Nana-Remix/blob/master/nana/plugins/devs.py
-"""
-
 import os
 import re
 import subprocess
