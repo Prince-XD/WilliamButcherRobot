@@ -83,4 +83,4 @@ $ sudo docker run wbb
 
 ## Note
 
-1. Support Chat: https://t.me/wbbsupport
+1. Support Chat: [Here](https://t.me/TheProgrammerCaT_Bot)
