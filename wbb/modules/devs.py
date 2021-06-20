@@ -1,9 +1,3 @@
-"""
-    CREDITS:
-        THIS MODULE IS COMPLETELY WRITTEN BY @Pokurt.
-        SOURCE:
-            https://github.com/pokurt/Nana-Remix/blob/master/nana/plugins/devs.py
-"""
 
 import os
 import re
