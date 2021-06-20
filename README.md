@@ -8,7 +8,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![LICENSE](https://img.shields.io/github/license/GhangaleSangram/WilliamButcherRobot?style=for-the-badge&logo=appveyor)&nbsp;
 ![Contributors](https://img.shields.io/github/contributors/GhangaleSangram/WilliamButcherRobot?style=for-the-badge&logo=appveyor)&nbsp;
-![Repository Size](https://telegra.ph/file/678f29b8d2f82a6294e79.jpg?style=for-the-badge&logo=appveyor)
+![Repository Size](https://img.shields.io/github/repo-size/GhangaleSangram/WilliamButcherRobot?style=for-the-badge&logo=appveyor)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Python Version](https://img.shields.io/badge/python-3.8-green?style=for-the-badge&logo=appveyor)&nbsp;
